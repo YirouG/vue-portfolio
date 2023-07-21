@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center" style="padding: 100px">
+  <div id="contact" class="text-center" style="padding: 100px">
     <h1>Contact Me</h1>
     <h2>Email: gyr.work@outlook.com</h2>
   </div>

@@ -1,10 +1,9 @@
 <template>
   <div id="app">
     <Navbar msg="Welcome to my portfolio" />
-    <Jumbotron />
-    <Gallery />
-    <!-- <About /> -->
-    <Contact />
+    <Jumbotron ref="jumbotron" />
+    <Gallery ref="gallery" />
+    <Contact ref="contact" />
     <Footer />
   </div>
 </template>
